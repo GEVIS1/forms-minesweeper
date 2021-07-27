@@ -12,7 +12,6 @@ namespace forms_minesweeper
 {
     public partial class Form1 : Form
     {
-
         MineField mf;
         public Form1()
         {
